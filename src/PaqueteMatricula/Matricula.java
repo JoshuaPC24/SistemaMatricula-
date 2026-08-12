@@ -4,6 +4,9 @@
  */
 package PaqueteMatricula;
 
+import PaqueteProfesor.Profesor;
+import paqueteEstudiante.Estudiante;
+
 /**
  *
  * @author alovi
